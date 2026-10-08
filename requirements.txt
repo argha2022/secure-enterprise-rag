@@ -1,0 +1,38 @@
+# Core
+python-dotenv
+requests
+numpy
+pydantic>=2.0.0
+
+# FastAPI
+fastapi
+uvicorn[standard]
+
+# LangChain / LangGraph
+langchain
+langgraph
+langchain-community
+langchain-groq
+langchain-openai
+
+# Vector Database & Retrieval
+qdrant-client
+flashrank
+
+# Document Parsing
+pypdf
+python-docx
+python-pptx
+beautifulsoup4
+unstructured
+
+# Observability / Logging
+logfire[fastapi,requests]
+loguru
+
+# Frontend
+streamlit
+
+# Async / Utilities
+nest-asyncio
+pytz

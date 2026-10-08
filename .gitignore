@@ -1,0 +1,5 @@
+.env
+.logfire/
+enterprise_env/
+__pycache__/
+*.pyc
